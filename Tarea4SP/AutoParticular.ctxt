@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AutoParticular
+comment1.params=color\ propietario\ capacidad
+comment1.target=AutoParticular(java.lang.String,\ Persona,\ int)
+comment2.params=nuevoPropietario
+comment2.target=void\ vender(Persona)
+comment3.params=p
+comment3.target=java.lang.String\ entrar(Persona)
+numComments=4

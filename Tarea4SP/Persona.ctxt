@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=nombre\ id
+comment1.target=Persona(java.lang.String,\ java.lang.String)
+comment2.params=p
+comment2.target=void\ incluirAmigo(Persona)
+comment3.params=
+comment3.target=java.lang.String\ getID()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=boolean\ buscar(java.lang.String)
+numComments=6

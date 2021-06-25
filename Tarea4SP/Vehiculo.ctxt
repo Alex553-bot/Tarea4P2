@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Vehiculo
+comment1.params=color\ propietario\ capacidad
+comment1.target=Vehiculo(java.lang.String,\ Persona,\ int)
+comment1.text=\r\n\ al\ crear\ un\ vehiculo\ la\ capacidad\ debe\ ser\ mayor\ a\ 0\r\n\ como\ conductor\ por\ defecto\ es\ el\ propietario\r\n
+comment2.params=p
+comment2.target=java.lang.String\ entrar(Persona)
+comment3.params=p
+comment3.target=boolean\ pertenece(Persona)
+comment4.params=p
+comment4.target=void\ bajar(Persona)
+comment5.params=
+comment5.target=Persona[]\ mostrarPasajeros()
+comment6.params=color
+comment6.target=void\ cambiarColor(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getColor()
+numComments=8

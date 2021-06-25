@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Taxi
+comment1.params=color\ propietario\ tarifa
+comment1.target=Taxi(java.lang.String,\ Persona,\ int)
+comment2.params=distancia
+comment2.target=double\ trabajar(double)
+numComments=3
