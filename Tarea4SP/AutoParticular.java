@@ -4,7 +4,7 @@ public class AutoParticular extends Vehiculo{
 
     public AutoParticular(String color, Persona propietario, int capacidad){
         super(color, propietario, capacidad);
-        privado = false;
+        privado = true;
     }
 
     public void vender(Persona nuevoPropietario){
@@ -32,5 +32,9 @@ public class AutoParticular extends Vehiculo{
         }
 
         return reporte;
+    }
+    
+    public boolean getEstado(){
+        return privado;
     }
 }
